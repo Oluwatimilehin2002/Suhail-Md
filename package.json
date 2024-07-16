@@ -1,13 +1,13 @@
 {
-   "name": "suhail-md",
+   "name": "Beekeeper 🐝🐝🐝",
    "version": "1.3.1",
    "description": "Multi device whatsapp bot by SuhailTechInfo.",
    "main": "index.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start . --deep-monitoring --attach --name Suhail || node .",
-            "start": "pm2 start . --attach --name Suhail",
-            "stop": "pm2 stop Suhail"
+            "run": "pm2 start . --deep-monitoring --attach --name Beekeeper 🐝🐝🐝 || node .",
+            "start": "pm2 start . --attach --name Beekeeper 🐝🐝🐝",
+            "stop": "pm2 stop Beekeeper 🐝🐝🐝"
    },
    "author": "SuhailTechInfo",
    "license" :"Apache-2.0",
